@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Test plans">
+      <FileRef
+         location = "group:UnitTests.xctestplan">
+      </FileRef>
+      <FileRef
+         location = "group:UITests.xctestplan">
+      </FileRef>
+      <FileRef
+         location = "group:AllTests.xctestplan">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:SwiftUIReference.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

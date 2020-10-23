@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "6C046099-70BC-4D72-80FC-D643E9F98769",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftUIReference.xcodeproj",
+        "identifier" : "6381834E2525DB5D00B8D170",
+        "name" : "SwiftUIReferenceUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
